@@ -1,6 +1,4 @@
-<script setup>
-
-</script>
+<script></script>
 
 <template>
   <div>
@@ -9,7 +7,7 @@
 </template>
 
 <style scoped>
- h1{
+h1 {
   color: white;
- }
+}
 </style>
